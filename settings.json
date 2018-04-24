@@ -2,8 +2,8 @@
     "originalGuildId": "",
     "newGuildId": "",
     "newGuildAdminRoleId": "",
-    "copyEmojis": false,
-    "copyBans": false,
-    "debug": false,
+    "copyEmojis": true,
+    "copyBans": true,
+    "debug": e,
     "token": ""
 }
